@@ -104,4 +104,4 @@ This repository will be kept up-to-date throughout the project lifecycle.
 
 ## Contact
 
-For any questions or issues, please contact yangamgudwa@yahoo.co.uk
+For any questions or issues, please contact yangamgudwa@yahoo.co.uk, bmabeka2@gmail.com, lulutosh@outlook.com, tsakanilindsay@gmail.com and yamkelani.velaphi@gmail.com.
