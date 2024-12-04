@@ -40,7 +40,7 @@ The AWS architecture is designed using the Well-Architected Framework, focusing 
 **2. Compute Layer:**
 
 * **EC2 (Elastic Compute Cloud):**  Virtual machines for applications requiring more control or complex configurations.
-* **ECS/EKS (Elastic Container Service/Kubernetes):** For containerized applications.  (Specify if used)
+* **ECS/EKS (Elastic Container Service/Kubernetes):** For containerized applications. 
 * **Auto Scaling Groups:**  Dynamically scale compute resources based on demand.
 * **Load Balancing:** Distribute traffic across multiple instances.
 
@@ -100,6 +100,8 @@ In addition to the above deployment steps, the following documentation will be i
 
 
 This repository will be kept up-to-date throughout the project lifecycle.
+
+This README provides a high-level overview of the Acme Manufacturing cloud migration project. Refer to the individual documents within this repository for detailed information. Regular updates will be made to this README to reflect project progress and any changes to the plan.
 
 
 ## Contact
